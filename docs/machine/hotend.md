@@ -1,3 +1,5 @@
+##MCU
+
 Metric|Value
 ---|---
 MCU|STM32F402RCT6
@@ -40,3 +42,22 @@ The hotend board has an 2x4 pin port at the bottom of the board. This connector 
     If you're able to dump the firmware from the microcontroller on the hotend ([possibly using stm32f0-pico-dump](https://github.com/racerxdl/stm32f0-pico-dump)), please consider sending us a firmware dump of the hotend microcontroller.
 
     Ask on [the Discord](https://discord.gg/t6Cft3wNJ3) for more information.
+
+##Hardware
+
+Metric|Value
+---|---
+Motor type|10T NEMA14 (round, 20.5mm long)
+Motor P/N|BJY36D12-04V28
+Motor MFG|SHENZHEN  KELI MOTOR  LTD
+Extruder gear ratio|52:10
+Extruder hobbed gear diameter|10mm nominal
+Heater type|Ceramic plate-type PTC heater
+Heater resistance|~9.6Ω
+Heater power|60W
+Part cooling fan type|5020 Wide mouth radial fan, 4 pin (tach+5V PWM)
+Part cooling fan P/N|EFC-05D24D
+Part cooling fan power|0.50A @ 24V
+Hotend fan type|3010 axial fan, 3 pin (tach)
+Hotend fan P/N|BFC-03A24L
+Hotend fan power|0.10A @ 24V
