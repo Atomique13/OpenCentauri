@@ -26,7 +26,7 @@ nav:
   - Machine:
     - Machine: machine/index.md
     - Mainboard: machine/mainboard.md
-    - Hotend: machine/hotend.md
+    - Toolhead: machine/toolhead.md
     - Camera: machine/camera.md
     - Bed: machine/bed.md
     - Screen: machine/screen.md
