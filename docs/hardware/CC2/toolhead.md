@@ -38,13 +38,17 @@ Back side of detector board showing filament actuation lever, optical sensor, an
 Filament detector board annotated with hall effect-based cover detection. Credit to keefe826 on the OpenCentauri Discord.
 ///
 
-## Unknown hotend fan shroud board
+## Filament cutter actuation sensor
 
-A small board screwed into the hotend fan shroud can be seen. the function of this board is currently unknown but it may be a hall effect sensor used to detect filament cutter actuation. It is connected to the right side of the filament detector board.
+A small board screwed into the hotend uses a hall effect sensor used to detect filament cutter actuation by a magnet mounted in the filament cutter arm. It is connected to the right side of the filament detector board.
 
 ![Fan shroud board](./assets/cc2_fanductboard.jpg){ width="400" }
 /// caption
 Fan shroud board. Credit to u/CalligrapherLoud778 on the Elegoo subreddit.
+///
+![Filament cutter magnet](./assets/filamentcutter_magnet.jpg){ width="380" }
+/// caption
+Filament cutter magnet location highlighted in red
 ///
 
 ## MCU
