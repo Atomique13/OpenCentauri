@@ -1,0 +1,15 @@
+name: build-utf8fix
+on:
+  workflow_call:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "utf8-fix/**"
+
+jobs:
+  build:
+    uses: ./.github/workflows/build-rust.yml
+    with:
+      project: utf8-fix
