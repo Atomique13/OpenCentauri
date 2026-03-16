@@ -59,13 +59,9 @@ nav:
       - Patched firmware: patched-firmware/index.md
       - Modified slicer machine gcode: patched-firmware/modified_start_end_machine_gcode.md
   - Klipper Conversion:
-    - Klipper Conersion Methods: klipper-conversion/index.md
+    - Klipper Conversion Methods: klipper-conversion/index.md
     - Klipper via mainboard replacement:
-      - Main: klipper-conversion/klipper-via-mainboard-replacement/index.md
-      - Recognize Hotend: klipper-conversion/klipper-via-mainboard-replacement/recognize-hotend.md
-      - Printer Config: klipper-conversion/klipper-via-mainboard-replacement/printer-config.md
-      - Mainsail Config: klipper-conversion/klipper-via-mainboard-replacement/mainsail-config.md
-      - UDEV Setup: klipper-conversion/klipper-via-mainboard-replacement/udev-setup.md
+      - Documentation: klipper-conversion/klipper-via-mainboard-replacement/index.md
     - Klipper via DSP Control:
       - Main: klipper-conversion/klipper-via-dsp/dsp.md
   - Mods:

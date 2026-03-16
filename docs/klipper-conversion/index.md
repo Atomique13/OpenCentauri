@@ -6,7 +6,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Set up a replacement mainboard](../klipper-via-mainboard-replacement/index.md)
+    [:octicons-arrow-right-24: View Devminer's mainboard replacement docs](https://wiki.i.devminer.xyz/s/4935760a-7863-494c-918f-72373130d619)
 
     Run full klipper by replacing your mainboard using off-the-shelf parts. 
 
