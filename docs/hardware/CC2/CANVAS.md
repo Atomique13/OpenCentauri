@@ -67,7 +67,7 @@ The filament multiplexer is mounted directly to the extruder housing with a 4mm 
 
 ![Filament multiplexer](./assets/hubmounted.jpg){ width="400" }
 /// caption
-The Filament multiplexer mounted, the filament detector PCB tab with tangle detection sensor is mounted in front of it.
+The Filament multiplexer mounted, with the filament detector PCB tab and tangle detection sensor in front of it.
 ///
 
 The CC2 detects tangles by means of a rear facing Hall effect sensor at the top of the [Filament Detector PCB](../toolhead/#filament-detector-board). During a small metal tab extends from the filament multiplexer
@@ -77,7 +77,7 @@ The CC2 detects tangles by means of a rear facing Hall effect sensor at the top 
 The multiplexer tangle detection tab shown in non-triggered (left), and triggered (right) positions. Credit to laser_velociraptor on the Elegoo Discord.
 ///
 
-The multiplexer uses a spring loaded mechanism to maintain the pneumatic fitting hub against the top surface of the multiplexer housing, 
+The multiplexer uses a spring loaded mechanism to maintain the pneumatic fitting hub against the top surface of the multiplexer housing. When a tangle occurs the extruder continues increasing filament tension until it exceeds the force applied by the spring. The spring is compressed thus pushing the metal tab in front of the Hall effect sensor, triggering a tangle error and pausing the print.
 
 ![Multiplexer internals](./assets/hubinternals.jpg){ width="600" }
 /// caption
