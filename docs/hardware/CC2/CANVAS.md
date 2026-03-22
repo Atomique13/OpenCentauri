@@ -70,7 +70,7 @@ The filament multiplexer is mounted directly to the extruder housing with a 4mm 
 The Filament multiplexer mounted, with the filament detector PCB tab and tangle detection sensor in front of it.
 ///
 
-The CC2 detects tangles by means of a rear facing Hall effect sensor at the top of the [Filament Detector PCB](../toolhead/#filament-detector-board). During a small metal tab extends from the filament multiplexer
+The CC2 detects tangles by means of a rear facing Hall effect sensor at the top of the [Filament Detector PCB](../toolhead/#filament-detector-board). When filament is tangled a small metal tab extends from the filament multiplexer, activating the tangle sensor.
 
 ![tangle detection tab](./assets/hubmechanism.jpg){ width="600" }
 /// caption
