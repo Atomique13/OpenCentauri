@@ -22,7 +22,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: LED and Lighting modificants](../mods/light_mods.md)
+    [:octicons-arrow-right-24: LED and Lighting modifications](../mods/light_mods.md)
 
     Improve visibility with toolhead mounted lighting directly on the OEM supplementary board.
 
