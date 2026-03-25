@@ -1,4 +1,4 @@
-The CC uses it's EMMC module in 4-line mode. VCCQ and VCC are shorted together to 3.3v.
+The CC uses its EMMC module in 4-line mode. VCCQ and VCC are shorted together to 3.3v.
 During tapping the MCU must be powered down and/or held reset with the onboard button.
 
 |EMMC Pin|Tap Point|PCB Side|Remarks|

@@ -19,7 +19,7 @@ The firmware upgrade files include the 16Kb of unknown (mostly 0xFF with some ra
 
 ## Flashing custom firmware (mcu-flasher)
 
-Using [mcu-flasher](https://github.com/suchmememanyskill/OpenCentauri/tree/main/mcu-flasher) a custom firwmare can be flashed through the official elegoo bootloader. Run the program with `-h` for more information.
+Using [mcu-flasher](https://github.com/OpenCentauri/OpenCentauri/tree/main/mcu-flasher) a custom firmware can be flashed through the official elegoo bootloader. Run the program with `-h` for more information.
 
 ## Flashing custom firmware (STM32CubeProgrammer)
 
@@ -50,7 +50,7 @@ The hotend and bed boards come with the readout protection enabled by default. A
 
 ### Bed
 
-1. Either via an added connector or solder jumper wires directly to the right side serial pins to an USB-TTL transciever as
+1. Either via an added connector or solder jumper wires directly to the right side serial pins to an USB-TTL transceiver as
 
     - |Bed Board|USB-TTL|
     |--|--|

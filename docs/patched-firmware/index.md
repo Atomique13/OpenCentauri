@@ -67,7 +67,7 @@ If you'd like to support our work, you can do so on [Ko-Fi](https://ko-fi.com/op
 
 You should now be greeted by the OpenCentauri splash screen :tada:
 
-This new firmware goes well with [modified machine start and end gcode in OrcaSlicer](./modified_start_end_machine_gcode.md). Specifically to center the purge line and to turn on the light of the chamber after starting a print. Installing this is optional but reccomended.
+This new firmware works well with [modified machine start and end gcode in OrcaSlicer](./modified_start_end_machine_gcode.md). Specifically to center the purge line and to turn on the light of the chamber after starting a print. Installing this is optional but recommended.
 
 ## Update
 

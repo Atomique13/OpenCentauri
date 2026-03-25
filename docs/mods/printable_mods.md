@@ -2,7 +2,7 @@
 
 **Cable Arm Riser and Vertical Strain Relief**
 
-Daniel Cherubini's [vertical strain relief](https://www.printables.com/model/1447575-elegoo-centarui-carbon-usb-cable-strain-guide) and Devin's Cable arm risers (eg. [1](https://www.printables.com/model/1450583-centauri-carbon-cable-arm-sturdy-riser), [2](https://www.printables.com/model/1412274-elegoo-centauri-carbon-low-riser-remix-fixed), [3](https://www.printables.com/model/1452465-centauri-carbon-cable-arm-vented-riser) ) are the currently recommended solutions to adress the failure-prone USB cable on the CC1.
+Daniel Cherubini's [vertical strain relief](https://www.printables.com/model/1447575-elegoo-centarui-carbon-usb-cable-strain-guide) and Devin's Cable arm risers (eg. [1](https://www.printables.com/model/1450583-centauri-carbon-cable-arm-sturdy-riser), [2](https://www.printables.com/model/1412274-elegoo-centauri-carbon-low-riser-remix-fixed), [3](https://www.printables.com/model/1452465-centauri-carbon-cable-arm-vented-riser) ) are the currently recommended solutions to address the failure-prone USB cable on the CC1.
 
 ![cable arm riser and vertical strain relief installed](./assets/cablearm.jpg){ width="300" }
 

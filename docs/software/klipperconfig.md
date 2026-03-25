@@ -15,7 +15,7 @@ sensor_pin: stm32:PA3
 microsteps: 16.0
 rotation_distance: 28.8
 filament_diameter: 1.75
-full_steps_per_rotation: (lost) (actually this may be a float in memory i will lose my shit)
+full_steps_per_rotation: (lost) (actually this may be a float in memory i will lose track of it)
 gear_ratio: 52:10
 nozzle_diameter: 0.4
 pid_Kp: 28.993265

@@ -47,7 +47,7 @@ Pin|Value
 ![Camera wiring image](assets/camerawiring.jpg){ width="350" }
 /// caption
 Camera shown attached to a USB cable for a PC webcam with standard color coded
-USB wires. The second ground connector is for USB cable shielding and is not neccessary.
+USB wires. The second ground connector is for USB cable shielding and is not necessary.
 Credit to baconmilkshake on the OpenCentauri Discord.
 ///
 
