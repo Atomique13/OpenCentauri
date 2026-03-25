@@ -1,3 +1,5 @@
+# Klipper Config Dump
+
 The machine.cfg dumped from the core dumps.
 
 **!! Not complete !!**

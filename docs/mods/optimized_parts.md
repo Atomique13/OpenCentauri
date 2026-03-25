@@ -1,3 +1,5 @@
+# Optimized Parts
+
 The goal of this project is to provide FDM-friendly replacement part CAD that is as close to stock parts as possible. This will allow CC owners to print replacement parts easily, and also serve as a base for future modifications. Most of these parts are cross-compatible with the CC2. The parts are available in the Opencentauri CAD [github repository](https://github.com/OpenCentauri/cad) in STEP, STL, and 3MF format with the latter two in proper printing orientation.
 
 ![FDM-Optimized CC parts](./assets/optimized_parts.jpg){ width="600" }

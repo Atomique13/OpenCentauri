@@ -1,3 +1,5 @@
+# CC1 Mainboard
+
 Metric|Value
 ---|---
 SoC|AllWinner R528-S3

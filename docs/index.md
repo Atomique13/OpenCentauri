@@ -6,7 +6,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Install OpenCentauri patched firmware](/patched-firmware/)
+    [:octicons-arrow-right-24: Install OpenCentauri patched firmware](patched-firmware/index.md)
 
     Install a patched version of Elegoo's firmware that contains fixes for bugs and unwanted behaviour. No extra hardware required!
 
@@ -14,7 +14,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Convert to Klipper](/klipper-conversion/)
+    [:octicons-arrow-right-24: Convert to Klipper](klipper-conversion/index.md)
 
     Explore the available options to convert your printer to full Klipper.
 
@@ -22,7 +22,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Read up on the hardware used](/hardware/CC1)
+    [:octicons-arrow-right-24: Read up on the hardware used](hardware/CC1/index.md)
 
     Information about the hardware used inside the Centauri Carbon, including full CAD models.
 
@@ -30,7 +30,7 @@
 
     ---
 
-    [:octicons-arrow-right-24: Read up on the Official Firmware](/software)
+    [:octicons-arrow-right-24: Read up on the Official Firmware](software/index.md)
 
     Information about the software stack used on the Centauri Carbon.
 

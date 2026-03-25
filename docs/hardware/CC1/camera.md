@@ -1,3 +1,5 @@
+# CC1 Camera
+
 Metric|Value
 ---|---
 Resolution|720p(1280x720)

@@ -53,6 +53,7 @@ nav:
     - API: software/api.md
     - Custom gcode: software/custom-gcode.md
     - Embedded Firmware: software/embedded-firmware.md
+    - Klipper Config Dump: software/klipperconfig.md
     - FEL: software/FEL-mode.md
   - Patched Firmware:
     - Patched firmware:

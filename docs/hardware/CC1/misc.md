@@ -1,3 +1,5 @@
+# CC1 Miscellaneous
+
 ## Fan Box
 
 Metric|Value

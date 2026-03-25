@@ -1,3 +1,5 @@
+# CC2 Miscellaneous
+
 ## Aux Fan
 
 Metric|Value

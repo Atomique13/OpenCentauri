@@ -1,3 +1,5 @@
+# CC1 Bed
+
 ![Bed overview](./assets/centauri-bed-overview.jpg){ width="600" }
 /// caption
 Credit to rabirx on the OpenCentauri Discord.

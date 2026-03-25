@@ -1,3 +1,5 @@
+# Embedded Firmware
+
 The CC uses two different embedded firmware for the bed and the hotend boards with allegedly the same bootloader. The firmwares as of 2025-05-19 are a substitute of Klipper commit `28f60f7e` with a lot of changes.
 
 ## Official update method
