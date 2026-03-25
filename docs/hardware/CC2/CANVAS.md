@@ -26,7 +26,7 @@ CANVAS internals. Credit to u/CalligrapherLoud778 on the Elegoo subreddit.
 CANVAS motors. Credit to u/CalligrapherLoud778 on the Elegoo subreddit.
 ///
 
-###CANVAS Mainboard
+### CANVAS Mainboard
 
 Metric|Value
 ---|---
@@ -65,7 +65,7 @@ Canvas spool holders are secured to the frame by means of two holes tapped into 
 
 ## Filament Multiplexer
 
-The filament multiplexer is mounted directly to the extruder housing with a 4mm OD metal tube at the bottom of the multiplexer replacing the PTFE reverse Bowden tubing. This positioning enables shorter swap times due to reduce retraction distance during load/unload cycles.
+The filament multiplexer is mounted directly to the extruder housing with a 4mm OD metal tube at the bottom of the multiplexer replacing the PTFE reverse Bowden tubing. This positioning enables shorter swap times due to reduced retraction distance during load/unload cycles.
 
 ![Filament multiplexer](./assets/hubmounted.jpg){ width="400" }
 /// caption

@@ -41,7 +41,7 @@ The hotend and bed boards come with the readout protection enabled by default. A
 1. Remove the hotend board (only the main one, the supplementary board is not needed).
 1. On the back side, there is a 2x4 copper pad row. Short the `3.3v` and the `BOOT` with a tweezer
     - ![img](assets/HotendFlashPinShort.png){ width="400" }
-1. Connect it to your PC via an USB-C cable (no adapter is needed) while shorting the pins
+1. Connect it to your PC via a USB-C cable (no adapter is needed) while shorting the pins
 1. Keep it shorted for ~2 seconds, then you can let go
 1. Open STM32CubeProgrammer software
 1. On the top right, select the USB mode. If you shorted the pins correctly, it should find the hotend board. if not, you'll get a "No DFU detected".
@@ -52,7 +52,7 @@ The hotend and bed boards come with the readout protection enabled by default. A
 
 ### Bed
 
-1. Either via an added connector or solder jumper wires directly to the right side serial pins to an USB-TTL transceiver as
+1. Either via an added connector or solder jumper wires directly to the right side serial pins to a USB-TTL transceiver as
 
     - |Bed Board|USB-TTL|
     |--|--|

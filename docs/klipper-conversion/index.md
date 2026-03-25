@@ -14,6 +14,6 @@
 
     ---
 
-    [:octicons-arrow-right-24: Run Klipper by adding a RPi](../klipper-conversion/klipper-via-dsp/dsp.md)
+    [:octicons-arrow-right-24: Run Klipper by adding a RPi](./klipper-via-dsp/dsp.md)
 
     Run full Klipper on a Raspberry Pi or other SBC while controlling the stock mainboard through DSP control.

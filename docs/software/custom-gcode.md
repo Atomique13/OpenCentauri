@@ -1,6 +1,6 @@
 # Custom G-code
 
-This page contains misc information about some of the custom GCODE commands obtained by reverse engineering
+This page contains miscellaneous information about some of the custom G-code commands obtained by reverse engineering.
 
 ## M8803
 
