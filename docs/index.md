@@ -42,7 +42,7 @@
 
     Join our Discord to get help, discuss patches and improvements, and connect with the community.
     
--   :fontawesome-brands-github:{ .lg .middle } __Github__
+-   :fontawesome-brands-github:{ .lg .middle } __GitHub__
 
     ---
 

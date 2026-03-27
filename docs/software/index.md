@@ -31,22 +31,3 @@ Silent|50%
 Balanced|100%
 Sport|130%
 Ludicrous|160%
-
-### Getting a coredump
-
-Coredumps have their executable memory stripped, unfortunately.
-
-They still contain useful information, especially readable strings from running programs.
-
-1. Insert a USB drive into your PC.
-1. Create a folder called `Crash` on your USB drive.
-1. Copy [a corrupt .gcode file](../assets/ECC_0.4_dust%20cover%20lr_PLA0.2_2h52m.gcode) to this new `Crash` folder.
-1. Eject the USB drive.
-1. Insert it into the Centauri Carbon.
-1. Navigate to your USB drive, then press the `Crash` folder.
-    - Your Centauri Carbon will now crash.
-1. After a restart, go to settings > `Export Logs`
-
-You should now have a `coredumps.tar.gz` file containing a coredump on your USB drive.
-
-Coredumps can be loaded in IDA, Ghidra, BinaryNinja, or any other analyser of your choice.

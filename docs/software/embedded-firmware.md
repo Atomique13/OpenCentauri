@@ -7,7 +7,7 @@ The CC uses two different embedded firmware for the bed and the hotend boards wi
 To update both the hotend and the bed boards, the main firmware attempts to send a file through YModem protocol when the said boards are power cycled during bootup. The firmware files are not encrypted and are stored
 on the `rootfsA` or `rootfsB` partition (whichever is active) in the `/lib/firmware` folder. The hotend firmware is called `upgrade-hotend.bin` and the bed board's is `upgrade-bed.bin`. On firmware 1.1.29 the hotend/bed firmware got moved into the `/app/resources` folder.
 
-To replicate this behaviour outside of elegoo's official software, a [flasher has been developed](https://github.com/suchmememanyskill/OpenCentauri/tree/main/mcu-flasher) that is able to push new firmware.
+To replicate this behaviour outside of Elegoo's official software, a [flasher has been developed](https://github.com/suchmememanyskill/OpenCentauri/tree/main/mcu-flasher) that is able to push new firmware.
 
 ## STM32 flash structure
 
@@ -21,7 +21,7 @@ The firmware upgrade files include the 16Kb of unknown (mostly 0xFF with some ra
 
 ## Flashing custom firmware (mcu-flasher)
 
-Using [mcu-flasher](https://github.com/OpenCentauri/OpenCentauri/tree/main/mcu-flasher) a custom firmware can be flashed through the official elegoo bootloader. Run the program with `-h` for more information.
+Using [mcu-flasher](https://github.com/OpenCentauri/OpenCentauri/tree/main/mcu-flasher) a custom firmware can be flashed through the official Elegoo bootloader. Run the program with `-h` for more information.
 
 ## Flashing custom firmware (STM32CubeProgrammer)
 

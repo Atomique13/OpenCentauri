@@ -30,7 +30,7 @@ The Centauri Carbon 2 delivers updates in a `.zip.sig` format. The `.sig` layer 
 Credit to Sims on the OpenCentauri Discord.
 ///
 
-The Centauri Carbon 2 uses an A/B partition scheme. Updates are written to the inactive slot, and then the slots are switched so the next boot uses the newly updated slot. The update process is handled by `swupdate`.
+The Centauri Carbon 2 employs an A/B partition scheme managed by `swupdate`. Updates are written to the inactive slot, which then becomes the primary boot partition upon the next restart.
 
 ## Firmware update archive
 
